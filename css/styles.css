@@ -120,6 +120,10 @@ body {
 .cards p:first-child {
   font-weight: bold;
 }
+
+.cards p:last-child {
+  font-style: italic;
+}
 /*article-section*/
 
 /* footer-section */
